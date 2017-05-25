@@ -5,3 +5,5 @@ El propósito de este sistema es apoyar el funcionamiento ágil de las organizac
   - Organizaciones Deportivas
   - Corporaciones Sin Fines de Lucro
   - ONG
+
+El desarrollo de este proyecto es responsabilidad de Credesa E.I.R.L.
